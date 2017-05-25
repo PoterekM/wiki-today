@@ -36,3 +36,7 @@ img {
   list-style-type: circle;
   float: right;
 }
+
+.panel-body ul{
+  list-style-type: circle;
+}
