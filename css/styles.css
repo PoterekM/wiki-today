@@ -40,3 +40,8 @@ img {
 .panel-body ul{
   list-style-type: circle;
 }
+
+.panel-body img{
+  float: left;
+  margin-right: 10px;
+}
