@@ -21,3 +21,18 @@ img {
   margin-top: 20px;
   margin-bottom: 5px;
 }
+/*
+.well {
+  background-color: grey;
+}*/
+
+.well {
+  overflow: hidden;
+
+}
+
+
+.well ul {
+  list-style-type: circle;
+  float: right;
+}
